@@ -4,7 +4,7 @@
 
 ### Objectius de les proves a realitzar
   - Per fer una bona prova, ens hem de fixar en 2 objectius:
-    - Provar si el softwaare no fa el que ha de fer.
+    - Provar si el software no fa el que ha de fer.
     - Provar si el software fa el que no ha de fer.
 
 ### Estratègies de prova
@@ -15,7 +15,7 @@
     - Es proporcionen entrades i s'estudïen les sortides.
     
   - **Caixa blanca**:
-    - S'examina el codi font i la seva execusió.
+    - S'examina el codi font i la seva execució.
     - Es comprova la execució de cada unitat: funcions, classes, moduls...
 
 ### Tipus de proves
