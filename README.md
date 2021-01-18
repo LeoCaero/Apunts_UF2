@@ -1,4 +1,4 @@
-# Apunts_UF2_1
+# Apunts_UF2
 
 ## Proves
 
