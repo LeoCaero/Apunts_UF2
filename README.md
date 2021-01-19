@@ -35,4 +35,50 @@ Un framework serveix tant per escriure codi font com per desenvolupar tota una a
   - **Model**: És la part del framework que gestiona les operacions lògiques.
   - **Vista**: És la interfície, és a dir, la part gràfica o visible amb la qual interactua l'usuari.
 
+## Integració
+
+### Tipus d'integració
+  - Continua
+  - Ascendent
+  - Descendent
+  
+### Servidors 
+  - Jenkins
+  - Bamboo
+  - Travis CI
+  ...
+
+### Cobertura del codi
+  - Indica el percentatge de la prova realitzada(execució)
+  - Es aconsellable que el percentatge arribi al 100%
+  - Possibilitat de realitzar les cobertures a diferents IDE's que es basin en java.
+
+## Qualitat
+
+### Control de qualitat
+  - Aconseguir una mesura de calidad del producte/programa
+  - Realització de proves
+
+
+### Tipus de qualitat
+  - QA(Quality Assurance): conjunt d'activitats per garantir la qualitat al processos.
+  - QC(Quality Control): conjunt d'activitats per garantir la qualitat dels productes.
+  
+### Factors de qualitat
+  - **Operació del producte** (estructurar del producte):
+    - Correcció
+    - Fiable
+    - Codi eficient
+    - Codi segur
+    - Facilitat a l'hora de fer-ne ús
+
+  - **Revisió del producte** ():
+    - Que es pugui fer manteniment al producte
+    - La flexibilitat del producte
+    - Facilitat a l'hora de fer proves al producte
+    
+  - **Transició del producte** ()
+    - Portabilitat del producte(USB..)
+    - Codi reutilitzable
+    - Operatiu de forma interna
 
